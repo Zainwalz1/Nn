@@ -8,7 +8,9 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "
+{"noiseKey":{"private":{"type":"Buffer","data":"gDBBocZyL6w5twx6kNGnD8iQQqXwCchNd0tNvkyJJn4="},"public":{"type":"Buffer","data":"q1PA/KWHSdaT73YSe0rmUX9ox5ijesRY93qQrvEXtRY="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"qPn++B7E5FHUxZ4tolD6iS4akcB2S7+D2XhO5ZCr2Vc="},"public":{"type":"Buffer","data":"mW1gJ5IatjrIO1Jeo/122WHZA3dNOYb7KRLlJryGBwI="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"MOr0Vsm2UV5GQHeelDcTrPGY3Kx3B1K4EOOWRzmMNH4="},"public":{"type":"Buffer","data":"8A2RhCvZf4M04l35ikVziqVlLtFFGvAfG8PkKWeFvx8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"WIhfCRP/Uf0S13a9iHsmoRJW9QOA9+t5zR6GsNS5jXQ="},"public":{"type":"Buffer","data":"/rp8o1vBc3bPle6FPYj0yEt0GyDS4jJvckOAFEwZpgk="}},"signature":{"type":"Buffer","data":"X9tvsqzSGEUtqubgwgPMWOIfXCAQ1JlwUZAw3GXQ3N8XcNJxZqXeH4jVo2d6ccgUQ36S5tD6D92gxBRSd1Shhg=="},"keyId":1},"registrationId":152,"advSecretKey":"kYLkkPXzyIX6SLuLpCZ4UKVhGJeYqABa2uRFiA6qbHI=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"CYRILDEV","me":{"id":"263776030359:42@s.whatsapp.net","lid":"56041236611139:42@lid"},"account":{"details":"CODX+sgFEN6TwsIGGBAgACgA","accountSignatureKey":"qmFFlOljQ3LyFFtd4k9TwUa2OdkEduMYE4/D+rSga3Y=","accountSignature":"HbX9m6FzLnse/1kKO8pjPqcn6DjEDqJ3LnACYWnDGg7/ai15uuaMHgsElhUf4KA1tZ0sLy+yQ/AeHBOsttuyAA==","deviceSignature":"9htOWTwOAo+i0D8r/F2LJEdOJLl/EZTObP/ROO4zg8jfoyYjuf5dCMTSKo3AqlqUpej+jBidHCFrljU7AYTKiA=="},"signalIdentities":[{"identifier":{"name":"263776030359:42@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BaphRZTpY0Ny8hRbXeJPU8FGtjnZBHbjGBOPw/q0oGt2"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CBIIDQ=="},"lastAccountSyncTimestamp":1750108647,"lastPropHash":"3gPUJk"}
+      "
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
